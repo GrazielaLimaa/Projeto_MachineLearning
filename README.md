@@ -1,1 +1,1 @@
-# Projeto_MachineLearning
+Este projeto foi desenvolvido como parte de um estudo prático em Machine Learning, baseado em uma aula/tutorial. O objetivo foi aplicar conceitos fundamentais de análise de dados e construção de modelos preditivos utilizando Python no Jupyter Notebook.
